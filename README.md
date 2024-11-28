@@ -1,7 +1,6 @@
-### 7 dias de desafios de lógica 🚀
-# Proposto pela Alura
+#7 dias de desafios de lógica 🚀
+###  Proposto pela Alura
 
-##
 **Day 1:**
 *Operações Booleanas*
 
