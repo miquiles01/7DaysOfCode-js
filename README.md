@@ -4,13 +4,13 @@
 **Day 1:**
 *Operações Booleanas* <br />
 **Day 2:**
-*Variáveis*
+*Variáveis* <br />
 **Day 3:**
-*Fluxo de decisão*
+*Fluxo de decisão* <br />
 **Day 4:**
-*Loops e randomização*
+*Loops e randomização* <br />
 **Day 5:**
-*Arrays e coleções*
+*Arrays e coleções* <br />
 
 
 ##
