@@ -2,7 +2,7 @@
 # Proposto pela Alura
 
 **Day 1:**
-*Operações Booleanas*
+*Operações Booleanas* <br />
 **Day 2:**
 *Variáveis*
 **Day 3:**
