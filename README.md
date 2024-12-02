@@ -3,6 +3,15 @@
 
 **Day 1:**
 *Operações Booleanas*
+**Day 2:**
+*Variáveis*
+**Day 3:**
+*Fluxo de decisão*
+**Day 4:**
+*Loops e randomização*
+**Day 5:**
+*Arrays e coleções*
+
 
 ##
 Linguagem:
