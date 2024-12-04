@@ -11,6 +11,10 @@
 *Loops e randomização* <br />
 **Day 5:**
 *Arrays e coleções* <br />
+**Day 6:**
+*Remoção de Arrays* <br />
+**Day 7**
+*Calculadora* <br />
 
 
 ##
